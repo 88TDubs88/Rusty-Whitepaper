@@ -51,7 +51,7 @@ Repeat → new challenges unlock
 
 🧠 5. The Rusty AI System
 
-Rusty is not just content — it is a structured environment.
+Rusty is not just content, it is a structured environment.
 
 Components:
 🧩 AI Missions
@@ -62,15 +62,14 @@ generating content
 analyzing data
 using AI tools
 solving prompts
-🧪 Skill Progression
 
+🧪 Skill Progression
 Users evolve over time:
 
 beginner → intermediate → advanced
 higher rewards for higher capability
 
 🧠 Proof of Learning (PoL)
-
 Rusty introduces:
 
 Proof of Learning
@@ -96,6 +95,7 @@ aligning incentives across users
 💰 7. Tokenomics
 Total Supply
 1,000,000,000 RUSTY
+
 Allocation
 Liquidity: 2,500,000
 Airdrop (Linea holders): 150,000,000
@@ -140,7 +140,7 @@ Rusty rewards early supporters from Linea through a snapshot-based airdrop.
 
 However:
 
-The goal is not distribution — it is activation.
+The goal is not distribution, it is activation.
 
 Users may:
 
