@@ -6,9 +6,7 @@
 
 Artificial Intelligence is rapidly becoming the most important toolset of the modern internet.
 
-Yet:
-
-Most people don’t know how to use it effectively
+Yet most people don’t know how to use it effectively
 
 Learning AI is fragmented and overwhelming
 
