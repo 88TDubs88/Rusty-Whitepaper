@@ -14,13 +14,15 @@ Learning AI is fragmented and overwhelming
 
 There is no incentive to actually learn
 
-Web3 remains disconnected from real-world skill building
+Web3 remains disconnected from real world skill building
 
 At the same time, crypto ecosystems struggle with:
 
-shallow engagement
-short-lived speculation
-lack of meaningful utility
+shallow engagement,
+
+short-lived speculation,
+
+And lack of meaningful utility
 
 ⚡ 2. The Insight
 
@@ -28,7 +30,7 @@ Learning is the most valuable onchain activity that does not yet exist.
 
 Rusty introduces a new primitive:
 
-Learn-to-Earn, powered by AI
+Learn to Earn, powered by AI
 
 Instead of rewarding attention or speculation, Rusty rewards capability.
 
@@ -36,22 +38,28 @@ Instead of rewarding attention or speculation, Rusty rewards capability.
 
 Rusty is an onchain protocol designed to:
 
-teach users how to use AI tools
+Teach users how to use AI tools
 
-reward them for completing real tasks
+Reward them for completing real tasks
 
-create continuous engagement through learning
+Create continuous engagement through learning
 
 🔁 4. The Core Loop
 
 Rusty operates through a simple system:
 
 Learn → Execute → Prove → Earn → Repeat
+
 Breakdown:
+
 Learn → user is given an AI-based task
+
 Execute → user completes it using real tools
+
 Prove → submission / validation of result
+
 Earn → receive RUSTY tokens
+
 Repeat → new challenges unlock
 
 🧠 5. The Rusty AI System
@@ -104,7 +112,9 @@ participating in higher-tier challenges
 aligning incentives across users
 
 💰 7. Tokenomics
+
 Total Supply
+
 1,000,000,000 RUSTY
 
 Allocation
@@ -244,4 +254,5 @@ Rusty is experimental.
 It represents a shift from:
 
 speculation → participation
+
 passive holding → active learning
