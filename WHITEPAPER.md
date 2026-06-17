@@ -109,30 +109,24 @@ participating in higher-tier challenges
 
 aligning incentives across users
 
-💰 7. Tokenomics
+## 💰 7. Tokenomics
 
-Total Supply
+### Total Supply
 
 1,000,000,000 RUSTY
 
-Allocation
+### Allocation
 
-Liquidity: 2,500,000
+- Liquidity: 5,000,000
+- Airdrop (Linea holders): 150,000,000
+- Learning Rewards: 350,000,000
+- Treasury: 250,000,000
+- Marketing: 100,000,000
+- Team: 145,000,000
 
-Airdrop (Linea holders): 150,000,000
-
-Learning Rewards: 350,000,000
-
-Treasury: 250,000,000
-
-Marketing: 100,000,000
-
-Team: 147,500,000
-
-🔥 Key Principle
+### 🔥 Key Principle
 
 Tokens are emitted through learning and participation, not passive distribution.
-
 🌐 8. Chain Strategy
 
 Rusty operates across chains with a clear structure:
