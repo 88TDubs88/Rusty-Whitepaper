@@ -147,24 +147,23 @@ early community
 
 snapshot-based rewards
 
-💧 9. Liquidity
+## 💧 9. Liquidity
 
 Initial liquidity is deployed on Aerodrome:
 
 Pair: RUSTY / ETH
 
-Initial liquidity: ~$5,000
+Initial liquidity: ~$5,000 total
 
-Launch price: ~$0.001
+Initial RUSTY added: 5,000,000 RUSTY
+
+Approximate launch price: ~$0.0005
 
 Liquidity is intentionally constrained to allow:
 
-
-price discovery
-
-early participation
-
-organic growth
+- price discovery
+- early participation
+- organic growth
 
 🎯 10. Airdrop Strategy
 
