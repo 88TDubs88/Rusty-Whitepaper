@@ -127,7 +127,9 @@ aligning incentives across users
 ### 🔥 Key Principle
 
 Tokens are emitted through learning and participation, not passive distribution.
-🌐 8. Chain Strategy
+🌐 
+
+8. Chain Strategy
 
 Rusty operates across chains with a clear structure:
 
