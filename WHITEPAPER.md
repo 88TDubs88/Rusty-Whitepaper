@@ -151,7 +151,7 @@ snapshot-based rewards
 
 Initial liquidity is deployed on Aerodrome:
 
-Pair: RUSTY / ETH
+Pair: RUSTY / WETH
 
 Initial liquidity: ~$5,000 total
 
