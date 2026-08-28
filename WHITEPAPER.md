@@ -149,15 +149,15 @@ snapshot-based rewards
 
 ## 💧 9. Liquidity
 
-Initial liquidity is deployed on Aerodrome:
+Initial liquidity is deployed on Kona Defi:
 
-Pair: RUSTY / WETH
+Pair: RUSTY / PENGU
 
-Initial liquidity: ~$5,000 total
+Initial liquidity: ~14.2k total
 
-Initial RUSTY added: 5,000,000 RUSTY
+Initial RUSTY added: 0 
 
-Approximate launch price: ~$0.0005
+Approximate launch price: ~$0.00001415
 
 Liquidity is intentionally constrained to allow:
 
@@ -193,7 +193,7 @@ Phase 1
 
 — Foundation
 
-Token launch on Base
+Token launch on Abstract
 
 Liquidity deployment
 
